@@ -1,4 +1,4 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
+# EX3:Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -50,7 +50,22 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![Screenshot (363)](https://github.com/user-attachments/assets/7faf6807-e749-410c-8fa1-1de6c3b5bc31)
+### DATASET:
+
+![image](https://github.com/user-attachments/assets/44fa6415-1b09-416f-8881-0f18d3cf42f8)
+
+## VALUE OF X:
+
+![image](https://github.com/user-attachments/assets/10d620e2-2866-46c6-9da4-8499eaab72c4)
+
+## VALUE OF X1_SCALED:
+
+![image](https://github.com/user-attachments/assets/121f1f19-a0bb-468d-9028-7544d3b19978)
+
+## PREDICTED VALUE:
+
+![image](https://github.com/user-attachments/assets/4bb22d08-d9bf-4c69-a635-a0dc5990a758)
+
 
 
 
